@@ -19,3 +19,15 @@ body {
 #plantchip {
   max-width: 40%;
 }
+
+.contents li {
+  border: solid 3px black;
+  margin: 10px;
+  max-width: 25%;
+  background-color: lightgray;
+}
+
+ul.contents {
+  background-color: darkgray;
+  border: solid 3px black;
+}
