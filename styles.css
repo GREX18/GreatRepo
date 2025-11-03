@@ -18,6 +18,7 @@ body {
 
 #plantchip {
   max-width: 40%;
+  border: solid 5px grey;
 }
 
 .contents li {
@@ -30,4 +31,8 @@ body {
 ul.contents {
   background-color: darkgray;
   border: solid 3px black;
+}
+
+.lowernav {
+  background-color: lightgray;
 }
