@@ -1,0 +1,13 @@
+REVIEW BY HAYSIE, DOM, DEVASHY:
+
+Pros:
+ - Consistent styling across all of the pages
+ - Good use of images
+ - Interesting information
+ - Nice looking header at the top of all of the pages
+
+
+Cons:
+ - Use different html elements such as lists, tables
+ - Font for the smaller text elements isn't as readable
+ - Typos in the medicine page
